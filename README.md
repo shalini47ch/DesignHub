@@ -34,6 +34,33 @@
 5. Study detailed case studies of Amazon Locker and Library Management Systems.
 6. Complete the quiz to evaluate your understanding of the design patterns.
 
+## Snapshots 
+
+### HomePage
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/1b86e1fe-92c3-4398-b2ff-69573fd9f094">
+
+### DesignPatternPage
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/9b070042-2563-47fb-8d18-d63658daef6f">
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/4682b443-d3b7-481e-aa22-3b7d0ba0c757">
+<img width="661" alt="image" src="https://github.com/user-attachments/assets/e5a0bdbc-3fba-427d-89ca-ced334e78f35">
+
+### Added to Favorites
+
+<img width="914" alt="image" src="https://github.com/user-attachments/assets/134df8ae-8476-4a56-aa11-469b5af153db">
+
+### RealLife Implementation
+
+<img width="667" alt="image" src="https://github.com/user-attachments/assets/f45acd1b-e498-404b-8be3-5360b60d8667">
+
+
+## Case Study
+
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/599661fd-290d-49b3-9979-48f0e4dde462">
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/beeedfed-b464-4cc3-aa21-cc9489651552">
+
+## Test Your Knowledge
+
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/37fa8007-d433-46f6-9ca1-dc35584cb7b9">
 
 
 ## License
