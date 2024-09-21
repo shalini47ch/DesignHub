@@ -115,7 +115,7 @@ const DesignPatternTable = () => {
     const fetchCheckedDays = async () => {
       try {
         const response = await axios.get(
-          "http://localhost:8080/api/checkedDays"
+          "https://design-hub-backend-eight.vercel.app/api/checkedDays"
         );
         setCheckedDays(response.data);
       } catch (error) {
@@ -127,7 +127,7 @@ const DesignPatternTable = () => {
     const fetchFavorites = async () => {
       try {
         const response = await axios.get(
-          "http://localhost:8080/api/favoritess"
+          "https://design-hub-backend-eight.vercel.app/api/favoritess"
         );
         setFavorites(response.data.map((fav) => fav.pattern));
       } catch (error) {
@@ -362,7 +362,7 @@ const DesignPatternTable = () => {
   // };
   const handleSelectPattern = async (day, isChecked) => {
     try {
-      await axios.post("http://localhost:8080/api/checkedDays", {
+      await axios.post("https://design-hub-backend-eight.vercel.app/api/checkedDays", {
         day,
         checked: isChecked,
       });
@@ -382,7 +382,7 @@ const DesignPatternTable = () => {
 
       // Make API call to add the favorite to the backend
       try {
-        await axios.post("http://localhost:8080/api/favoritess", {
+        await axios.post("https://design-hub-backend-eight.vercel.app/api/favoritess", {
           pattern: pattern,
         });
       } catch (error) {

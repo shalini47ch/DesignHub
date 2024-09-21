@@ -24,7 +24,7 @@ const Quiz = () => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:8080/api/quizzes")
+      .get("https://design-hub-backend-eight.vercel.app/api/quizzes")
       .then((response) => {
         setQuestions(response.data);
       })
