@@ -3,6 +3,10 @@
 
 **Design Pattern Hub** is a full-stack web application designed to help developers learn and master all 23 GoF (Gang of Four) software design patterns. The platform provides detailed explanations, code examples, class diagrams, and real-life use cases for each pattern. Additionally, users can track their learning progress, mark favorite patterns, and dive into comprehensive case studies of systems like Amazon Locker and Library Management.
 
+## Live Link
+
+https://design-hub-frontend-theta.vercel.app/
+
 ## Features
 
 - **23 Design Patterns**: Explore all 23 design patterns across Creational, Structural, and Behavioral categories.
@@ -22,9 +26,7 @@
 - **Database**: MongoDB
 - **Deployment**: Vercel
 
-## Live Link
 
-https://design-hub-frontend-theta.vercel.app/
 
 ## How to Use
 
