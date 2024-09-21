@@ -69,6 +69,4 @@ https://design-hub-frontend-theta.vercel.app/
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/37fa8007-d433-46f6-9ca1-dc35584cb7b9">
 
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
